@@ -10,7 +10,7 @@ const Footer = () => {
             </div>
 
             <div className='flex justify-center items-center'>
-                Created with <img className='w-6 m-1' src="icons/heart.png" alt="" /> by WebD :)
+                Created with <img className='w-6 m-1' src="icons/heart.png" alt="" /> by WebD-Rupam
             </div>
 
         </div>
